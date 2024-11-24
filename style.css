@@ -1,3 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+.boxed-contents {
+    padding: 0 100px;
+    margin: 0 auto;
+}
+
+.image {
+    text-align: center;
+}
+
 .title {
     font-size: 45px;
     font-family: "Times New Roman", Sans-serif;
